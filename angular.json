@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "profile-lab"
+    }
+  },
+  "defaultProject": "profile-lab",
+  "cli": {
+    "analytics": "8f46324e-d034-4edc-b19b-d8ea6fe7c1c9"
+  }
 }
